@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;    
+}
+
+section#social {
+    display: inline-block;
+    width: 25vw;
+    height: 100vh;
+    background-color: lightgray;
+}
+
+section#sobremim {
+    display: inline-block;
+    width: 70vw;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
