@@ -5,6 +5,10 @@
     margin: 0px;    
 }
 
+body {
+    display: inline-block;
+}
+
 section#social {
     display: inline-block;
     width: 25vw;
@@ -15,7 +19,7 @@ section#social {
 section#sobremim {
     display: inline-block;
     width: 60vw;
-    height: 100vh;
+    height: 100vh;    
     background-color: lightgray;   
 }
 
