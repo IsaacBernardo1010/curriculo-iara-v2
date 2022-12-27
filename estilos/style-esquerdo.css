@@ -5,11 +5,10 @@
     margin: 0px;  
 }
 
-body {    
-    position: relative;    
-}
 
-div.esquerdo {    
+
+div.esquerdo { 
+    position: relative;   
     display: inline-block;
     width: 25vw;
     height: 99vh;
