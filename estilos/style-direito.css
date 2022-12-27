@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;  
+}
+
+div.direito {
+    position: absolute;
+    display: inline-block;
+    width: 72vw;
+    height: 99vh;
+    margin: 5px 5px 5px 0px;      
+    background-color: lightgray; 
+}
+
+div#ano {
+      
+    display: inline-block;
+    width: 380px;
+    height: 130px;
+    padding: 50px;
+    background-color: antiquewhite;
+}
+
+div#descricao {
+    
+    display: inline-block;
+    height: 130px;
+    padding: 50px;
+    background-color: aliceblue;
+}
+
+div#ano2 {
+    
+    display: inline-block;
+    width: 380px;
+    height: 130px;
+    padding: 50px;
+    background-color: antiquewhite;
+}
+
+div#descricao2 {
+    
+    display: inline-block;
+    height: 130px;
+    padding: 50px;
+    background-color: aliceblue;
+}
+
+
